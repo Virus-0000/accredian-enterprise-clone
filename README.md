@@ -45,6 +45,16 @@ https://github.com/Virus-0000/accredian-enterprise-clone
 
 ---
 
+## 📋 Approach Taken
+
+- Built the project using Next.js App Router with reusable React components.
+- Divided the landing page into independent sections for better maintainability.
+- Used Tailwind CSS to create a responsive layout for desktop, tablet, and mobile devices.
+- Implemented an enquiry modal with a Next.js API Route to simulate form submission.
+- Focused on clean code, component reusability, and responsiveness rather than creating a pixel-perfect copy.
+
+---
+
 ## 📁 Project Structure
 
 ```text
